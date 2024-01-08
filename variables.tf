@@ -6,9 +6,9 @@ variable "az_a" {
 }
 
 variable "access_key" {
-  default = "AKIATHIBFCVSVWZ7Q3NM"
+  default = "your access_key"
 }
 
 variable "secret_key" {
-  default = "7iuv3xjY6q/mHxmF0leM99r6oGzKwyOk//HLEQMo"
+  default = "your secret_key"
 }
